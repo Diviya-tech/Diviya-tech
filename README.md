@@ -30,8 +30,15 @@ Specializing in machine learning, deep learning, optimization, and large-scale b
 
 ## 📊 GitHub Stats
 
-![Sridivya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diviya-tech&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diviya-tech&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diviya-tech&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diviya-tech&layout=compact&theme=tokyonight&hide_border=true)
+```
+
+---
+
+Also the stats cards sometimes take a minute to load on first render. After updating, **open this link in your browser** to test if it works:
+```
+https://github-readme-stats.vercel.app/api?username=Diviya-tech&show_icons=true&theme=tokyonight
 
 ---
 
